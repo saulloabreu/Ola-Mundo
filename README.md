@@ -3,4 +3,4 @@
 
  Repositório criado durante uma aula ao vivo!
 
-eSSA LINHA EU ALTEREI NO SITE, que impressionante!
+ESSA LINHA EU ALTEREI NO SITE, que impressionante!
